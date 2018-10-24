@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Scoreboard\ here.\r\n\ \r\n\ This\ scoreboard\ counts\ how\ many\ Food\ object\ the\ Fly\ has\ eaten\ \r\n\ and\ add\ a\ point\ every\ time\ the\ fly\ eat\ a\ Food\ object\r\n\ \r\n\ @author\ (Shenal\ Dhanusekera)\ \r\n\ @version\ (10/23/2018)\r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ Scoreboard\ makes\ an\ image\ that\ has\ a\ text\ called\ Score\ and\ the\ points\ will\ be\ set\ to\ 0\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameter\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment2.params=
+comment2.target=void\ addToScore()
+comment2.text=\r\n\ This\ removes\ the\ old\ image\ with\ tect\ Score\ and\ the\ points\ set\ to\ 0\ and\ replace\ it\ with\ an\ text\ Score\ and\ points\ that\ will\ add\ up\ every\ time\ the\ fly\ eats\ a\ Food\ object\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameter\r\n\ @return\ Does\ not\ return\ anything\r\n
+numComments=3

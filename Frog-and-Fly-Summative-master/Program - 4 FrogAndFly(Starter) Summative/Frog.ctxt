@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ frogTurning()
+comment3.text=\r\n\ Makes\ the\ frog\ turn\ off\ course\ 35%\ of\ the\ time.\r\n\ and\ it\ will\ turn\ left\ or\ right\ 15\ degrees\ equally\ as\ often.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment4.params=
+comment4.target=void\ checkEdge()
+comment4.text=\r\n\ if\ the\ frog\ is\ near\ the\ edge\ it\ will\ turn\ 7\ degrees\ to\ the\ right\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment5.params=
+comment5.target=void\ frogTouching()
+comment5.text=\r\n\ if\ the\ frog\ catch/encounter\ a\ fly\ it\ will\ stop\ the\ program\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ if\ there\ is\ no\ food\ in\ the\ world\ add\ 10\ more\ food\ to\ the\ world\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment3.params=n
+comment3.target=void\ addFood(int)
+comment3.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\r\n\ \r\n\ @param\ The\ amount\ of\ Food\ that\ will\ be\ in\ the\ world(beach)\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment4.params=
+comment4.target=void\ addFly()
+comment4.text=\r\n\ This\ adds\ a\ fly\ in\ random\ position\ somewhere\ in\ the\ world\ \r\n\ \ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment5.params=
+comment5.target=void\ addFrog()
+comment5.text=\r\n\ This\ adds\ a\ Frog\ in\ the\ middle\ of\ the\ Window\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment6.params=
+comment6.target=void\ update()
+comment6.text=\r\n\ Creat\ a\ public\ method\ called\ update.\ this\ method\ will\ call\ addToScore\ from\ the\ scoreboard\ object\ and\ add\ a\ point\ to\ that\ scoreboard\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+numComments=7
